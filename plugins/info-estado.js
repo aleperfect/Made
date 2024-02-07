@@ -25,7 +25,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'The Mystic Bot';
   const info = ` _*< INFO - ESTADO />*_
 
- ▢ *Prop.:* Aleizn
+ ▢ *Prop.:* 𝐃𝐄𝐒𝐏𝐈𝐄𝐑𝐓𝐄𝐍 𝐏𝐋𝐀𝐍𝐓𝐀𝐒 🌱🌱
  ▢ *WA:* +51992621691
  ▢ *PayPal:* paypal.me/aleizn
 
